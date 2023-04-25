@@ -16,5 +16,111 @@
       "avtar": "https://images.hindustantimes.com/img/2022/08/07/1600x900/cat_1659882617172_1659882628989_1659882628989.jpg",
       "post_image": "https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg"
     }
+  ],
+  "phuquoc": [
+    {
+      "id": 1,
+      "title": "Hòn Thơm",
+      "number": 3,
+      "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181254484160.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mũi Gành Dầu",
+      "number": 3,
+      "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181255357994.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bãi Khem",
+      "number": 3,
+      "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181256065976.jpg"
+    }
+  ],
+  "ninhbinh": [
+    {
+      "id": 1,
+      "title": "Chùa Bái Đính",
+      "number": 3,
+      "src": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/07/chua-bai-dinh-e1531727212910.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Động Am Tiên",
+      "number": 3,
+      "src": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/07/dia-diem-du-lich-ninh-binh-6.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hang Địa Linh",
+      "number": 3,
+      "src": "https://www.vietnambooking.com/wp-content/uploads/2020/03/hang-dong-ninh-binh.jpg"
+    }
+  ],
+  "quangninh": [
+    {
+      "id": 1,
+      "title": "Vân Đồn",
+      "number": 5,
+      "src": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-01.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Tuần Châu",
+      "number": 3,
+      "src": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-03%20(1).jpg"
+    },
+    {
+      "id": 3,
+      "title": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-07.jpg",
+      "number": 3,
+      "src": "Cô Tô"
+    }
+  ],
+  "hotel": [
+    {
+      "id": 1,
+      "src": "https://statics.vinpearl.com/styles/images_530_x_312/public/2021_08/vinoasis-phu-quoc-1_1629220280.jpg.webp?itok=Ge_rYc5-",
+      "name": "VinOasis Phú Quốc",
+      "location": "Khu Bãi Dài, Xã Gành Dầu, Thành phố Phú Quốc, Tỉnh Kiên Giang"
+    },
+    {
+      "id": 2,
+      "src": "https://statics.vinpearl.com/styles/images_530_x_312/public/2021_08/vinpearl-resort-&-spa-da-nang-1_1630174277.jpg.webp?itok=gLaIuKmd",
+      "name": "Vinpearl Đà Nẵng",
+      "location": "Số 23 Đường Trường Sa, Hòa Hải, Ngũ Hành Sơn, Đà Nẵng"
+    },
+    {
+      "id": 3,
+      "src": "https://statics.vinpearl.com/styles/images_530_x_312/public/2021_08/vinpearl-resort-&-spa-ha-long-1_1629197795.jpg.webp?itok=IJbpNaF3",
+      "name": "Vinpearl Hạ Long",
+      "location": "Đảo Rều, Bãi Cháy, Thành phố Hạ Long, Tỉnh Quảng Ninh"
+    },
+    {
+      "id": 4,
+      "src": "https://statics.vinpearl.com/styles/images_530_x_312/public/2021_08/vinpearl-condotel-beachfront-nha-trang-1_1629266648.jpg.webp?itok=bfV7bIRE",
+      "name": "Vinpearl Beachfront Nha Trang",
+      "location": "78 - 80 Đ. Trần Phú, P.Lộc Thọ, TP.Nha Trang, Khánh Hòa"
+    }
+  ],
+  "duthuyen": [
+    {
+      "id": 1,
+      "src": "https://duthuyensaigon.vn/wp-content/uploads/z2278323719310_7ef755e2b577f5873bfd1930ec66f251-500x500.jpg",
+      "name": "Du Thuyền Galeon 420 FLy",
+      "number": "2"
+    },
+    {
+      "id": 2,
+      "src": "https://duthuyensaigon.vn/wp-content/uploads/TONG-THE-DU-THUYEN-500x500.jpg",
+      "name": "Du Thuyền Geleon 640 FLy",
+      "number": "7"
+    },
+    {
+      "id": 3,
+      "src": "https://duthuyensaigon.vn/wp-content/uploads/BEN-DU-THUYEN-DON-KHACH-500x500.jpg",
+      "name": "Du Thuyền King Yacht",
+      "number": "30"
+    }
   ]
 }
