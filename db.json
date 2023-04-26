@@ -21,19 +21,19 @@
     {
       "id": 1,
       "title": "Hòn Thơm",
-      "number": 3,
+      "number": 6,
       "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181254484160.jpg"
     },
     {
       "id": 2,
       "title": "Mũi Gành Dầu",
-      "number": 3,
+      "number": 9,
       "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181255357994.jpg"
     },
     {
       "id": 3,
       "title": "Bãi Khem",
-      "number": 3,
+      "number": 4,
       "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181256065976.jpg"
     }
   ],
@@ -41,19 +41,19 @@
     {
       "id": 1,
       "title": "Chùa Bái Đính",
-      "number": 3,
+      "number": 7,
       "src": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/07/chua-bai-dinh-e1531727212910.jpg"
     },
     {
       "id": 2,
       "title": "Động Am Tiên",
-      "number": 3,
+      "number": 5,
       "src": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/07/dia-diem-du-lich-ninh-binh-6.jpg"
     },
     {
       "id": 3,
       "title": "Hang Địa Linh",
-      "number": 3,
+      "number": 8,
       "src": "https://www.vietnambooking.com/wp-content/uploads/2020/03/hang-dong-ninh-binh.jpg"
     }
   ],
@@ -67,14 +67,14 @@
     {
       "id": 2,
       "title": "Tuần Châu",
-      "number": 3,
+      "number": 7,
       "src": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-03%20(1).jpg"
     },
     {
       "id": 3,
-      "title": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-07.jpg",
-      "number": 3,
-      "src": "Cô Tô"
+      "title": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-09.jpg",
+      "number": 8,
+      "src": "Lựng Xanh"
     }
   ],
   "hotel": [
@@ -121,6 +121,40 @@
       "src": "https://duthuyensaigon.vn/wp-content/uploads/BEN-DU-THUYEN-DON-KHACH-500x500.jpg",
       "name": "Du Thuyền King Yacht",
       "number": "30"
+    }
+  ],
+  "tour": [
+    {
+      "id": 1,
+      "src": "https://cdn2.ivivu.com/2022/06/02/14/ivivu-ho-ta-dung-360x225.jpg",
+      "name": "Tour Tây Nguyên: Măng Đen - Kon Tum - Gia Lai - Buôn Mê - Tà Đùng",
+      "view": 1255,
+      "tour": "3 ngày 2 đêm",
+      "price": "6.660.000"
+    },
+    {
+      "id": 2,
+      "src": "https://cdn2.ivivu.com/2018/09/26/10/ivivu-dong-thien-mon-750x390.jpg",
+      "name": "Tour Trung Quốc: Trương Gia Giới - Phượng Hoàng Cổ Trấn",
+      "view": 1957,
+      "tour": "5 ngày 4 đêm",
+      "price": "12,220,000"
+    },
+    {
+      "id": 3,
+      "src": "https://cdn2.ivivu.com/2019/01/22/08/ivivu-tour-nhat-ban-nui-phu-si.jpg",
+      "name": "Tour Nhật Bản: Tokyo - Phú Sỹ - Yamanashi",
+      "view": 1762,
+      "tour": "4 ngày 4 đêm",
+      "price": "18,880,000"
+    },
+    {
+      "id": 4,
+      "src": "https://cdn2.ivivu.com/2022/07/12/08/ivivu-two70-lounge-750x390.gif",
+      "name": "Trải Nghiệm Du Lịch Singapore - Malaysia  Cùng Siêu Du Thuyền Spectrum Of The Seas",
+      "view": 1452,
+      "tour": "5 ngày 4 đêm",
+      "price": "22,220,000"
     }
   ]
 }
