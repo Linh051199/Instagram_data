@@ -20,60 +20,78 @@
   "phuquoc": [
     {
       "id": 1,
-      "title": "Hòn Thơm",
+      "title": "Hòn Thơm 2 ngày 1 đêm",
+      "description": "Tọa lạc ở phía Nam của Phú Quốc, đảo Hòn Thơm là địa điểm thu hút hàng ngàn khách du lịch với vẻ đẹp hoang sơ và thiên nhiên kỳ vĩ. Được xây dựng tại đây, Sun World Hòn Thơm Phú Quốc đã và đang trở thành khu tổ hợp vui chơi, nghỉ dưỡng không thể bỏ qua.",
       "number": 6,
+      "whereStart": "Tp.HCM - Phú Quốc",
       "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181254484160.jpg"
     },
     {
       "id": 2,
-      "title": "Mũi Gành Dầu",
+      "title": "Mũi Gành Dầu 2 ngày 1 đêm",
+      "description": "Nằm cuối Bãi Dài, Mũi Gành Dầu nằm nhô ra biển, được mệnh danh là địa điểm du lịch Phú Quốc ngắm hoàng hôn lãng mạn nhất dành cho các cặp đôi. Sau một hành trình đi dọc Bãi Dài vui chơi dưới làn nước biển xanh trong, Gành Dầu hiện lên như đích đến, đem đến những phút giây yên bình, tĩnh lặng ngắm nhìn những tia sáng kết thúc của một ngày.",
       "number": 9,
+      "whereStart": "Tp.HCM - Phú Quốc",
       "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181255357994.jpg"
     },
     {
       "id": 3,
-      "title": "Bãi Khem",
+      "title": "Bãi Khem 2 ngày 1 đêm",
+      "description": "Bãi Khem - hay còn được gọi với cái tên rất dễ thương khác là Bãi Kem - nằm ở phía Nam của đảo Phú Quốc, cách thị trấn Dương Đông khoảng 25km và mới được người dân khám phá từ năm 2009. Cho tới năm 2018, công ty du lịch Flight Network của Canada đã xếp hạng Bãi Khem trong top 50 bãi biển đẹp nhất thế giới.",
       "number": 4,
+      "whereStart": "Tp.HCM - Phú Quốc",
       "src": "https://cdn.tgdd.vn/Files/2021/06/18/1361250/top-10-dia-diem-du-lich-phu-quoc-gan-trung-tam-ban-khong-the-bo-lo-202106181256065976.jpg"
     }
   ],
   "ninhbinh": [
     {
       "id": 1,
-      "title": "Chùa Bái Đính",
+      "title": "Chùa Bái Đính 2 ngày 1 đêm",
+      "description": "Nằm cách thành phố Ninh Bình 15km, chùa Bái Đính là một khu chùa có quy mô lớn nhất Việt Nam với nhiều kỉ lục đã được xác lập như Đại hồng chung lớn nhất Việt Nam; sở hữu pho tượng Phật bằng đồng cao và nặng nhất Việt Nam; là ngôi chùa có bộ tượng tam thế lớn nhất Việt Nam; ngôi chùa có giếng lớn nhất Việt Nam cũng như có nhiều tượng la hán bằng đá nhất Việt Nam.",
       "number": 7,
+      "whereStart": "Đà Nẵng - Ninh Bình",
       "src": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/07/chua-bai-dinh-e1531727212910.jpg"
     },
     {
       "id": 2,
-      "title": "Động Am Tiên",
+      "title": "Động Am Tiên 2 ngày 1 đêm",
+      "description": "Là di tích quốc gia nằm trong quần thể di tích quốc gia Hoa Lư, động Am Tiên chính là điểm đến mà du khách không thể bỏ qua nếu như muốn tận hưởng khung cảnh thiên nhiên thanh bình và thơ mộng. Bởi vẻ đẹp hoang sơ tách biệt hẳn với thế giới bên ngoài, thế nên nơi đây còn được các bạn trẻ gọi với cái tên “Tuyệt tình cốc”.",
       "number": 5,
+      "whereStart": "Đà Nẵng - Ninh Bình",
       "src": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/07/dia-diem-du-lich-ninh-binh-6.jpg"
     },
     {
       "id": 3,
-      "title": "Hang Địa Linh",
+      "title": "Hang Địa Linh 2 ngày 1 đêm",
+      "description": "Hang Địa Linh có chiều dài lên đến gần 300m và là một trong những các những hang động thạch nhũ xinh tuyệt đối hoàn hảo nhất Việt Nam. Địa chỉ đây từng được ưu ái gọi với tên thường gọi Hang Châu Báu, sở dĩ vì vẻ đẹp lấp lánh của rất nhiều thạch nhũ trong hang hệt như một kho vàng ngọc mà con người vẫn mong mỏi tìm kiếm. Chính là một trong những các những nơi check in Ninh Bình được nhiều du khách yêu dấu vì có tác dụng đi thuyền trên dòng sông xanh ngắt và khám phá hang động kín kẽ ",
       "number": 8,
+      "whereStart": "Đà Nẵng - Ninh Bình",
       "src": "https://www.vietnambooking.com/wp-content/uploads/2020/03/hang-dong-ninh-binh.jpg"
     }
   ],
   "quangninh": [
     {
       "id": 1,
-      "title": "Vân Đồn",
+      "title": "Vân Đồn 2 ngày 1 đêm",
+      "description": "Vân Đồn - Quảng Ninh là một trong những địa điểm được rất nhiều du khách ghé thăm bởi cảnh đẹp hoang sơ, bãi biển yên tĩnh chưa bị du lịch hóa nhiều. Đến với Vân Đồn, bạn sẽ được chiêm ngưỡng cảnh sắc núi rừng, biển xanh hòa quyện tạo nên mỹ cảnh. Bên cạnh đó, bạn cũng có thể thưởng thức nhiều món hải sản tươi ngon như sá sùng, tu hài, ốc móng tay, cá, tôm biển, ghẹ,…",
       "number": 5,
+      "whereStart": "Hà Nội -Quảng Ninh",
       "src": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-01.jpeg"
     },
     {
       "id": 2,
-      "title": "Tuần Châu",
+      "title": "Tuần Châu 2 ngày 1 đêm",
+      "description": "Từ lâu, khu du lịch Tuần Châu không chỉ là khu du lịch Quảng Ninh nổi tiếng mà còn được xem là khu du lịch quốc tế bậc nhất ở Việt Nam với diện tích tới 220ha, chỉ cách thành phố Hạ Long khoảng 2km. Đây là một hòn đảo với địa chất gồm đất lẫn phiến thạch duy nhất trong các đảo của vùng biển Hạ Long, sở hữu những bãi cát trắng mịn trải dài, nước biển xanh trong vắt và đặc biệt khí hậu luôn mát mẻ thích hợp cho những ai muốn đi du lịch nghỉ dưỡng.",
       "number": 7,
+      "whereStart": "Hà Nội -Quảng Ninh",
       "src": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-03%20(1).jpg"
     },
     {
       "id": 3,
-      "title": "Lựng Xanh",
+      "title": "Lựng Xanh 2 ngày 1 đêm",
+      "description": "Khu du lịch Lựng Xanh, Quảng Ninh có vị trí tại thành phố Uông Bí, mang đến một vẻ đẹp hùng vĩ với núi cao, mây xanh và dòng thác trắng xóa uốn lượn theo các vách đá. Thác có vị trí nằm trên lưng chừng núi nên bạn sẽ leo một đoạn đường khá dài xuyên qua khu rừng nguyên sinh. Nhưng khi lên đến nơi, bạn sẽ cảm thấy công sức bỏ ra thật xứng đáng khi nhìn thấy rừng trúc, những dải đá hình thù kỳ lạ và đặc biệt là bãi cát trắng mịn dưới suối y như một bãi biển thu nhỏ.",
       "number": 8,
+      "whereStart": "Hà Nội -Quảng Ninh",
       "src": "https://statics.vinpearl.com/khu-du-lich-quang-ninh-09.jpg"
     }
   ],
